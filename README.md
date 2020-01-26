@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/Grarak/KernelAdiutor.svg?branch=master)](https://travis-ci.org/Grarak/KernelAdiutor)
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/kernel-adiutor/localized.png)](https://crowdin.com/project/kernel-adiutor)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGrarak%2FKernelAdiutor.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FGrarak%2FKernelAdiutor?ref=badge_shield)
 
 * [Join Google+ Community](https://plus.google.com/communities/108445529270785762340) (Beta Testing)
 
@@ -88,3 +89,6 @@ _(Many sys interface paths has been taken from his [UKM-Project](https://github.
     
     You should have received a copy of the GNU General Public License
     along with Kernel Adiutor.  If not, see <http://www.gnu.org/licenses/>.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGrarak%2FKernelAdiutor.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FGrarak%2FKernelAdiutor?ref=badge_large)
